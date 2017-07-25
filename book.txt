@@ -1,0 +1,3 @@
+Book about:
+http://xmlhack.ru/books/xslt/ch_09_04.html
+
