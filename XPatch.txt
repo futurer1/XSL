@@ -1,0 +1,2 @@
+Книга по XPatch:
+http://soltau.ru/index.php/themes/dev/item/413-kratkoe-rukovodstvo-po-xpath
